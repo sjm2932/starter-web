@@ -19,3 +19,8 @@ This is a simple web project, deployment can be onany web server or
 even local file system.
 
 ## How to Contribute
+
+
+### Copyright
+
+2021 it.Training.
