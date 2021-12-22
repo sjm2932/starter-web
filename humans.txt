@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kevin Song songjemyeng@hotmail.com
 
 # THANKS
 
