@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2021 it.Training.
+2021 it.Training. All rights reserved.
